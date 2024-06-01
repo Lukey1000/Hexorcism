@@ -58,32 +58,32 @@ plugins:
 author:
   name   : "Luke Brown"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Studying and writing about the Dark Arts of DFIR and Red teaming"
+  bio    : "Unpacking the Dark Arts of DFIR and red teaming."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/luke-andrew-brown/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lukey1000"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/luke-andrew-brown/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lukey1000"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
