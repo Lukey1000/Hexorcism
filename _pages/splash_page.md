@@ -14,7 +14,7 @@ header:
 intro: 
   - excerpt: 'Unpacking the dark arts of DFIR, Red Teaming, and the cybersecurity industry.'
 feature_row:
-  - image_path: assets/images/event-viewer-98.gif
+  - image_path: assets/images/event-viewer-98.png
     alt: "Who needs a SIEM when you have Event Viewer?"
     title: "DFIR"
     excerpt: "Digital Forensics & Incident Response resources"
