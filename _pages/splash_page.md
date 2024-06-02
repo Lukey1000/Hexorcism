@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+# title: "Hexorcism"
 layout: splash
 permalink: /
 date: 2024-06-02
