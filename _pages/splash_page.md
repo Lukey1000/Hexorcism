@@ -14,7 +14,7 @@ header:
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/event-viewer-96.gif
+  - image_path: assets/images/event-viewer-98.gif
     alt: "Who needs a SIEM when you have Event Viewer?"
     title: "DFIR"
     excerpt: "Digital Forensics & Incident Response resources"
