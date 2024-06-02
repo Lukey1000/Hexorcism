@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+author_profile: true
 date: 2024-06-02
 header:
   overlay_color: "#000"
