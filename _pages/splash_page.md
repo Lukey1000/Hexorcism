@@ -38,7 +38,7 @@ feature_row:
   - image_path: /assets/images/old-man-cloud.jpg
     title: "Blog"
     excerpt: "Thoughts on the cyber industry"
-    url: "/posts/"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 #feature_row3:
