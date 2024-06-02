@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Luke Brown"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Unpacking the Dark Arts of DFIR and red teaming."
+  bio    : "Unpacking the Dark Arts of DFIR and Red Teaming."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
