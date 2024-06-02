@@ -13,7 +13,7 @@ excerpt: "Blog published by Luke Brown
   - DFIR and Red Team resources
 
   - Study notes and certification experiences"
-  
+
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
