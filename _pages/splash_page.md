@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: ""
 layout: splash
 permalink: /
 author_profile: true
@@ -8,6 +8,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/ghostintheshell.jpg
+excerpt: Blog published by Luke Brown
+- DFIR and Red Team resources
+- Study notes and certification experiences
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
