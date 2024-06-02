@@ -16,44 +16,39 @@ feature_row:
   - image_path: assets/images/event-viewer-98.png
     alt: "Who needs a SIEM when you have Event Viewer?"
     title: "DFIR"
-    excerpt: "Digital Forensics & Incident Response resources"
+    excerpt: "Digital Forensics & Incident Response resources and writeups"
     url: "/dfir/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/red-team.png
     alt: "Red GPT"
     title: "Red Teaming"
-    excerpt: "Penetration testing and red teaming resources"
+    excerpt: "Penetration testing and red teaming resources writeups"
     url: "/redteam/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+  - image_path: /assets/images/old-man-cloud.jpg
+    title: "Blog"
+    excerpt: "Sharing my thoughts and experiences on the cyber industry"
+    url: "/posts/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+#feature_row3:
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Right Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
+#feature_row4:
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#    alt: "placeholder image 2"
+#    title: "Placeholder Image Center Aligned"
+#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+#    url: "#test-link"
+#    btn_label: "Read More"
+#    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
