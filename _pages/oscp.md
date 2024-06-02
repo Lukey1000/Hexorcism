@@ -1,22 +1,8 @@
 ---
-title: "Testing things out, new folder category"
-excerpt_separator: "<!--more-->"
-categories:
-  - OSCP
-tags:
-  - Testing
-  - category
-  - yaml
+permalink: /oscp/
+title: "OSCP Notes"
+classes: wide
 ---
-
-This is before the more
-
-<!--more-->
-
-
-```ps
-get-childitem test
-```
-
-this is after the more
+A repository of the notes and techniques for my OSCP preparation.
+--------
 
