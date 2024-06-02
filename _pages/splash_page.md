@@ -12,17 +12,20 @@ header:
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
 #excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Unpacking the dark arts of DFIR, Red Teaming, and the cybersecurity industry.'
 feature_row:
   - image_path: assets/images/event-viewer-98.gif
     alt: "Who needs a SIEM when you have Event Viewer?"
     title: "DFIR"
     excerpt: "Digital Forensics & Incident Response resources"
+    url: "/dfir/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/red-team.png
     alt: "Red GPT"
     title: "Red Teaming"
     excerpt: "Penetration testing and red teaming resources"
-    url: "#test-link"
+    url: "/redteam/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
