@@ -15,15 +15,15 @@ intro:
 feature_row:
   - image_path: assets/images/event-viewer-98.png
     alt: "Who needs a SIEM when you have Event Viewer?"
-    title: "DFIR"
-    excerpt: "Digital Forensics & Incident Response writeups and resources"
+    title: "Blue Team"
+    excerpt: "DFIR writeups and resources"
     url: "/dfir/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/red-team.png
     alt: "Red GPT"
-    title: "Red Teaming"
-    excerpt: "Penetration testing and Red Teaming writeups and resources"
+    title: "Red Team"
+    excerpt: "Offensive writeups and resources"
     url: "/redteam/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -55,8 +55,8 @@ feature_row:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+# {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+# {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+# {% include feature_row id="feature_row4" type="center" %}
