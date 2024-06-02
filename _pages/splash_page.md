@@ -1,4 +1,5 @@
 ---
+title: "Splash Page"
 layout: splash
 permalink: /
 author_profile: true
