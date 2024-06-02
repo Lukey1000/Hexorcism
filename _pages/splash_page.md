@@ -16,14 +16,14 @@ feature_row:
   - image_path: assets/images/event-viewer-98.png
     alt: "Who needs a SIEM when you have Event Viewer?"
     title: "DFIR"
-    excerpt: "Digital Forensics & Incident Response resources and writeups"
+    excerpt: "Digital Forensics & Incident Response writeups and resources"
     url: "/dfir/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/red-team.png
     alt: "Red GPT"
     title: "Red Teaming"
-    excerpt: "Penetration testing and red teaming resources writeups"
+    excerpt: "Penetration testing and Red Teaming writeups and resources"
     url: "/redteam/"
     btn_label: "Read More"
     btn_class: "btn--primary"
