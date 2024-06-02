@@ -1,12 +1,12 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /splash-page/
+permalink: /
 date: 2024-06-02
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/ghostintheshell.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
