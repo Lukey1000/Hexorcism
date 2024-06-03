@@ -1,9 +1,9 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Blue Team"
+    url: /blueteam/
+  - title: "Red Team"
+    url: /redteam/
   - title: "About"
     url: /about/
