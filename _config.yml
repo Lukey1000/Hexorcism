@@ -17,7 +17,7 @@ title: Luke Brown
 title_seperator: "|"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Unpacking the Dark Arts of DFIR and red teaming.
+  Unpacking the Dark Arts of DFIR
 twitter_username: username
 github_username: lukey1000
 minimal_mistakes_skin: neon
@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Luke Brown"
   avatar : "/assets/images/Lukey.png"
-  bio    : "Unpacking the Dark Arts of DFIR and Red Teaming."
+  bio    : "Unpacking the Dark Arts of DFIR"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
