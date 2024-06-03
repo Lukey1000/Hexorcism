@@ -90,16 +90,13 @@ footer:
 
 # Collections
 collections:
-#  docs:
-#    output: true
-#    permalink: /:collection/:path/
-#  recipes:
-#    output: true
-#    permalink: /:collection/:path/
-#  pets:
-#    output: true
-#    permalink: /:collection/:path/
-  portfolio:
+  blueteam:
+    output: true
+    permalink: /:collection/:path/
+  redteam:
+    output: true
+    permalink: /:collection/:path/
+  blog:
     output: true
     permalink: /:collection/:path/
 
