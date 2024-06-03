@@ -132,6 +132,28 @@ defaults:
       comments: true
       share: true
       related: true
+  # _blueteam
+  - scope:
+      path: "_blueteam"
+      type: blueteam
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _redteam
+  - scope:
+      path: "_redteam"
+      type: redteam
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
