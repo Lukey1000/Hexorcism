@@ -8,11 +8,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/purple.png
-excerpt: "Blog published by Luke Brown
+#excerpt: "Blog published by Luke Brown
 
-  - DFIR and Red Team resources
+#  - DFIR and Red Team resources
 
-  - Study notes and certification experiences"
+#  - Study notes and certification experiences"
 
 #  actions:
 #    - label: "Download"
