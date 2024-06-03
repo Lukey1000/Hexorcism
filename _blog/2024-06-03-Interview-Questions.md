@@ -2,7 +2,7 @@
 title: "Cybersecurity Interview Questions"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - blog
 tags:
   - Testing
   - jekyll
