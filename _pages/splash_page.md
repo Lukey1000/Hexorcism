@@ -7,7 +7,7 @@ date: 2024-06-02
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/ghostintheshell.jpg
+  overlay_image: /assets/images/purple.png
 excerpt: "Blog published by Luke Brown
 
   - DFIR and Red Team resources
